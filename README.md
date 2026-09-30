@@ -20,7 +20,7 @@ No fluff. Just the tables, commands, and mnemonics you need on exam day.
 
 ## 🎯 Go deeper
 
-Cheat sheets are the quick reference. The full exam-weighted study guides ($12) and practice question packs ($7) are at **[bytebarhq.com](https://bytebarhq.com)**.
+Cheat sheets are the quick reference. The full exam-weighted study guides ($5) and practice question packs ($3) are at **[bytebarhq.com](https://bytebarhq.com)**.
 
 ## 🤝 Contributing
 
