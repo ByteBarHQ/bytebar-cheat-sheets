@@ -20,7 +20,7 @@ No fluff. Just the tables, commands, and mnemonics you need on exam day.
 
 ## 🎯 Go deeper
 
-Cheat sheets are the quick reference. When you're ready to drill like it's test day, the **ByteBar Practice Exam Simulator** — 1,000 questions per exam, **$9.99 one-time for all 19 exams** — is at **[bytebarhq.com](https://bytebarhq.com)**.
+Cheat sheets are the quick reference. When you're ready to drill like it's test day, the **ByteBar Practice Exam Simulator** — 1,000 questions per exam, **$9.99 one-time for all 20 exams** — is at **[bytebarhq.com](https://bytebarhq.com)**.
 
 ## 🤝 Contributing
 
